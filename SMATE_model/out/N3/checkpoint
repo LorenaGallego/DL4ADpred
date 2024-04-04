@@ -1,0 +1,2 @@
+model_checkpoint_path: "ss_N3_09_sk_fold4"
+all_model_checkpoint_paths: "ss_N3_09_sk_fold4"
