@@ -1,0 +1,2 @@
+model_checkpoint_path: "best_model_N2_sk_01_fold2"
+all_model_checkpoint_paths: "best_model_N2_sk_01_fold2"
