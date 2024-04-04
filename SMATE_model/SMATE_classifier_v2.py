@@ -44,7 +44,7 @@ def get_parameters():
                             help='the supervised ratio, default as 1.0')
         parser.add_argument('--epochs', type=int, default=1000,
                             help='epochs, default as 1000')
-        parser.add_argument('--rep_main', type=str, default='Datasets/MTS-UEA/',
+        parser.add_argument('--rep_main', type=str, default='Datasets/PSG/',
                             help='the root path of datasets')
         parser.add_argument('--ds_name', type=str, default='CharacterTrajectories',
                             help='the MTS dataset name')
@@ -101,9 +101,9 @@ if __name__ == "__main__":
     val_ratio = float(ds_config['val_ratio'])
     
     #load x, y and IDs datasets
-    X = np.load('Datasets/MTS-UEA/' + ds_name + '/X_N3.npy')
-    y = np.load('Datasets/MTS-UEA/' + ds_name + '/y_N3.npy')
-    IDs = np.load('Datasets/MTS-UEA/' + ds_name + '/IDs_N3.npy')
+    X = np.load('Datasets/' + ds_name + '/X_N3.npy')
+    y = np.load('Datasets/' + ds_name + '/y_N3.npy')
+    IDs = np.load('Datasets/' + ds_name + '/IDs_N3.npy')
 
     #to make different folds, we have to divide the different signals by patients
     id_unique, id_counts = np.unique(IDs, return_counts=True)
