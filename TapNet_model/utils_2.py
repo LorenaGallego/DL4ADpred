@@ -42,9 +42,9 @@ def load_raw_ts(path, dataset,fase, tensor_format=True):
 
     #load x, y and IDs datasets
     
-    X = np.load(path + "/X_" + fase +'_ages'+ ".npy")
-    y = np.load(path + "/y_" + fase +'_ages'+ ".npy")
-    IDs = np.load(path + "/IDs_" + fase +'_ages'+ ".npy")
+    X = np.load(path + "/X_" + fase + ".npy")
+    y = np.load(path + "/y_" + fase + ".npy")
+    IDs = np.load(path + "/IDs_" + fase + ".npy")
 
     #to make different folds, we have to divide the different signals by patients
     id_unique, id_counts = np.unique(IDs, return_counts=True)
