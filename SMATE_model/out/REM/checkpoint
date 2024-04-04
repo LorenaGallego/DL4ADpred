@@ -1,0 +1,2 @@
+model_checkpoint_path: "ss_REM_07_sk_fold4"
+all_model_checkpoint_paths: "ss_REM_07_sk_fold4"
