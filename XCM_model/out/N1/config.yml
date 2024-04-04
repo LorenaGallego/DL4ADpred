@@ -1,0 +1,16 @@
+{
+    "experiment_run": 1,
+    "dataset": "PSG",
+    "model_name": "XCM", 
+    "window_size": 0.3, # percentage of the time series length expected to be interesting to extract discriminative features - only for XCM and XCM-Seq (float)
+    "cv_folds": 2,
+    "epochs": 10,
+    "batch_size": 128,
+    "random_state": 123,
+    
+    # Explanation
+    "set": "test",
+    "mts_sample_id": 0,
+    "layer_name": "2D_Activation",
+
+}

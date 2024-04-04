@@ -1,0 +1,96 @@
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 32737
+Testing set size: 7959
+
+Dataset PSG loaded
+Training set size: 32017
+Testing set size: 8679
+
+Dataset PSG loaded
+Training set size: 33733
+Testing set size: 6963
+
+Dataset PSG loaded
+Training set size: 32512
+Testing set size: 8184
+
+Dataset PSG loaded
+Training set size: 31785
+Testing set size: 8911
+
+Training on fold 1
+Accuracy Test: 0.9602965196632742
+Accuracy Train: 0.9891862170087976
+F1 Test: 0.9644063978373507
+F1 Train: 0.9887811370983076
+
+Training on fold 2
+Accuracy Test: 0.944214097248398
+Accuracy Train: 0.973975197018755
+F1 Test: 0.9503577817531306
+F1 Train: 0.9733982765080553
+
+Training on the full train set
+Accuracy Test: 0.9651966327428069
+
+Training on fold 1
+Accuracy Test: 0.908630026500749
+Accuracy Train: 0.9880059970014993
+F1 Test: 0.9118203046814188
+F1 Train: 0.9879729391130042
+
+Training on fold 2
+Accuracy Test: 0.6716211545108883
+Accuracy Train: 0.7066025360734587
+F1 Test: 0.49306296691568835
+F1 Train: 0.5761212886923562
+
+Training on the full train set
+Accuracy Test: 0.758958405346238
+
+Training on fold 1
+Accuracy Test: 0.9475800660634783
+Accuracy Train: 0.9902170046246888
+F1 Test: 0.9451045269965409
+F1 Train: 0.9899384108787121
+
+Training on fold 2
+Accuracy Test: 0.949159844894442
+Accuracy Train: 0.9785972609236971
+F1 Test: 0.9507512520868114
+F1 Train: 0.9786377892182968
+
+Training on the full train set
+Accuracy Test: 0.9725692948441763
+
+Training on fold 1
+Accuracy Test: 0.8811094819159335
+Accuracy Train: 0.9587229330708661
+F1 Test: 0.8864511611623294
+F1 Train: 0.9597117982587812
+
+Training on fold 2
+Accuracy Test: 0.8856304985337243
+Accuracy Train: 0.9888041338582677
+F1 Test: 0.8733766233766234
+F1 Train: 0.9884999368128397
+
+Training on the full train set
+Accuracy Test: 0.917644183773216
+
+Training on fold 1
+Accuracy Test: 0.8692627090113343
+Accuracy Train: 0.8952932292977599
+F1 Test: 0.8296036273219248
+F1 Train: 0.8849557522123894
+
+Training on fold 2
+Accuracy Test: 0.9284030972954775
+Accuracy Train: 0.9878562889322343
+F1 Test: 0.9199096158674366
+F1 Train: 0.9879982588147503
+
+Training on the full train set
+Accuracy Test: 0.9532039052856021

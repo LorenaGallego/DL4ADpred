@@ -1,0 +1,209 @@
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 28276
+Testing set size: 7303
+
+Dataset PSG loaded
+Training set size: 30420
+Testing set size: 5159
+
+Dataset PSG loaded
+Training set size: 26234
+Testing set size: 9345
+
+Dataset PSG loaded
+Training set size: 27767
+Testing set size: 7812
+
+Dataset PSG loaded
+Training set size: 29619
+Testing set size: 5960
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 28276
+Testing set size: 7303
+
+Dataset PSG loaded
+Training set size: 30420
+Testing set size: 5159
+
+Dataset PSG loaded
+Training set size: 26234
+Testing set size: 9345
+
+Dataset PSG loaded
+Training set size: 27767
+Testing set size: 7812
+
+Dataset PSG loaded
+Training set size: 29619
+Testing set size: 5960
+
+Training on fold 1
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 28276
+Testing set size: 7303
+
+Dataset PSG loaded
+Training set size: 30420
+Testing set size: 5159
+
+Dataset PSG loaded
+Training set size: 26234
+Testing set size: 9345
+
+Dataset PSG loaded
+Training set size: 27767
+Testing set size: 7812
+
+Dataset PSG loaded
+Training set size: 29619
+Testing set size: 5960
+
+Training on fold 1
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 28276
+Testing set size: 7303
+
+Dataset PSG loaded
+Training set size: 30420
+Testing set size: 5159
+
+Dataset PSG loaded
+Training set size: 26234
+Testing set size: 9345
+
+Dataset PSG loaded
+Training set size: 27767
+Testing set size: 7812
+
+Dataset PSG loaded
+Training set size: 29619
+Testing set size: 5960
+
+Training on fold 1
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 28276
+Testing set size: 7303
+
+Dataset PSG loaded
+Training set size: 30420
+Testing set size: 5159
+
+Dataset PSG loaded
+Training set size: 26234
+Testing set size: 9345
+
+Dataset PSG loaded
+Training set size: 27767
+Testing set size: 7812
+
+Dataset PSG loaded
+Training set size: 29619
+Testing set size: 5960
+
+Training on fold 1
+Model: XCM
+
+Dataset PSG loaded
+Training set size: 28276
+Testing set size: 7303
+
+Dataset PSG loaded
+Training set size: 30420
+Testing set size: 5159
+
+Dataset PSG loaded
+Training set size: 26234
+Testing set size: 9345
+
+Dataset PSG loaded
+Training set size: 27767
+Testing set size: 7812
+
+Dataset PSG loaded
+Training set size: 29619
+Testing set size: 5960
+
+Training on fold 1
+Accuracy Test: 0.9580994112008764
+Accuracy Train: 0.9994341491017117
+F1 Test: 0.945706174591909
+F1 Train: 0.9994428969359331
+
+Training on fold 2
+Accuracy Test: 0.9337258660824319
+Accuracy Train: 0.9917951619748197
+F1 Test: 0.9137869611685073
+F1 Train: 0.9918733361356311
+
+Training on the full train set
+Accuracy Test: 0.7292893331507599
+
+Training on fold 1
+Accuracy Test: 0.9244039542547006
+Accuracy Train: 0.9854043392504931
+F1 Test: 0.9203105843890478
+F1 Train: 0.9852177387135438
+
+Training on fold 2
+Accuracy Test: 0.8883504555146347
+Accuracy Train: 0.9652202498356345
+F1 Test: 0.888888888888889
+F1 Train: 0.9654496767030241
+
+Training on the full train set
+Accuracy Test: 0.9416553595658074
+
+Training on fold 1
+Accuracy Test: 0.9478865703584805
+Accuracy Train: 0.985743691392849
+F1 Test: 0.9569140936034681
+F1 Train: 0.9840211911475689
+
+Training on fold 2
+Accuracy Test: 0.9661851257356875
+Accuracy Train: 0.9910802775024777
+F1 Test: 0.9720897367956192
+F1 Train: 0.9899527694289394
+
+Training on the full train set
+Accuracy Test: 0.41519529159978596
+
+Training on fold 1
+Accuracy Test: 0.9577572964669739
+Accuracy Train: 0.9946697399697472
+F1 Test: 0.9557165861513687
+F1 Train: 0.9945128281180483
+
+Training on fold 2
+Accuracy Test: 0.6196876600102407
+Accuracy Train: 0.6168971477960242
+F1 Test: 0.319981689173724
+F1 Train: 0.3463192822907706
+
+Training on the full train set
+Accuracy Test: 0.815284178187404
+
+Training on fold 1
+Accuracy Test: 0.9307046979865772
+Accuracy Train: 0.9997298939833885
+F1 Test: 0.9249772933696639
+F1 Train: 0.9997207093981287
+
+Training on fold 2
+Accuracy Test: 0.6562080536912752
+Accuracy Train: 0.7016205266711681
+F1 Test: 0.4229794424105886
+F1 Train: 0.5540417801998183
+
+Training on the full train set
+Accuracy Test: 0.9624161073825503
