@@ -47,7 +47,7 @@ def get_parameters():
         parser.add_argument('--rep_main', type=str, default='Datasets/MTS-UEA/',
                             help='the root path of datasets')
         parser.add_argument('--ds_name', type=str, default='CharacterTrajectories',
-                            help='the UEA MTS dataset name')
+                            help='the MTS dataset name')
         parser.add_argument('--outModelFile', type=str, default='./out_new_ss/best_model_N3_sk_01',
                             help='save the model weights')
         
