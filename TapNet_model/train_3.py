@@ -22,9 +22,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--data_path', type=str, default="./data/",
                     help='the path of data.')
 parser.add_argument('--dataset', type=str, default="PSG", #PSG
-                    help='time series dataset. Options: See the datasets list')
+                    help='time series dataset.')
 parser.add_argument('--fase', type=str, default="REM", #PSG
-                    help='Sleep stage datafase')
+                    help='Sleep stage dataset')
 parser.add_argument('--use_muse', action='store_true', default=True,
                     help='whether to use the raw data. Default:False')
 
