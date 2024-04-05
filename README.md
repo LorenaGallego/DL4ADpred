@@ -12,17 +12,19 @@ Alzheimer’s disease (AD) and sleep disorders exhibit a close association, wher
 ## Requirements
 Networks of the four models have been implemented in Python 3.8 with the following packages:
 * keras = 2.2.4
+* tensorflow = 1.14.0 with CUDA 10.2
+* pytorch = 2.0.1 with CUDA 11.7
+* pyhhmm
 * matplotlib
 * numpy
 * pandas
 * pyyaml
 * scikit-learn
 * seaborn
-* tensorflow = 1.14.0 with CUDA 10.2
 * graphviz
 * scikit-learn
-* pyhhmm
-* pytorch = 2.0.1 with CUDA 11.7
+
+
 
 
 ## Data 
