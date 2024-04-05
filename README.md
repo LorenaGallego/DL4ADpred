@@ -58,5 +58,12 @@ python HMM_att_train.py
 
 ## Citation
 ```
-
+@misc{gallegoviñarás2024alzheimers,
+      title={Alzheimer's disease detection in PSG signals}, 
+      author={Lorena Gallego-Viñarás and Juan Miguel Mira-Tomás and Anna Michela-Gaeta and Gerard Pinol-Ripoll and Ferrán Barbé and Pablo M. Olmos and Arrate Muñoz-Barrutia},
+      year={2024},
+      eprint={2404.03549},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP}
+}
 ```
