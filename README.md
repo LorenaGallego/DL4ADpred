@@ -29,7 +29,7 @@ Networks of the four models have been implemented in Python 3.8 with the followi
 
 ## Data 
 The data used concatenate 4 different PSG databases, 1 for patients with AD and 3 public databases to obtain studies of healthy patients where only 4 EEG channels were taken. These databases were preprocessed to avoid biases in the experiments, and were separated into the different sleep stages (N1, N2, N3, REM) to perform independent tests.
-The databases of healthy patients can be found in: 
+Databases of healthy patients can be found in: 
 * [ISRUC-SLEEP Dataset (Subgroup-III)](https://doi.org/10.1016/j.cmpb.2015.10.013)
 * [Dream Open Dataset-Healthy (DOD-H)](https://doi.org/10.1109/TNSRE.2020.3011181)
 * [Sleep Disorders Research Center (SDRC) Dataset](https://doi.org/10.17632/3hx58k232n.4)
