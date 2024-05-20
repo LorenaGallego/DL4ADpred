@@ -22,7 +22,7 @@ Networks of the four models have been implemented in Python 3.8 with the followi
 * scikit-learn
 * seaborn
 * graphviz
-* scikit-learn
+
 
 
 
